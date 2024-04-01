@@ -6,7 +6,8 @@
       "properties": {
 	  "univ": "Universitas Sanata Dharma",
       "alamat": "69FV+X5Q, Jl. Mrican Baru, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
-      "telepon": "(0274) 513301"
+      "telepon": "(0274) 513301",
+	  "point": 10
 	},
       "geometry": {
         "coordinates": [
@@ -116,13 +117,15 @@
         ],
         "type": "Polygon"
       }
+	  "id": 1
     },
     {
       "type": "Feature",
       "properties": {
 	  "univ": "Universitas Islam Indonesia",
 	  "alamat": "Kaliurang St No.Km. 14,5, Krawitan, Umbulmartani, Ngemplak, Sleman Regency, Special Region of Yogyakarta 55584",
-      "telepon": "(0274)898444"
+      "telepon": "(0274)898444",
+	  "point": 20
 	},
       "geometry": {
         "coordinates": [
@@ -379,13 +382,15 @@
         ],
         "type": "Polygon"
       }
+	  "id":1
     },
     {
       "type": "Feature",
       "properties": {
 	  "univ": "Universitas Amikom Yogyakarta",
 	  "alamat": " Jl. Ring Road Utara, Ngringin, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281",
-      "telepon": "(0274) 884201"
+      "telepon": "(0274) 884201",
+	  "point": 30
 	},
       "geometry": {
         "coordinates": [
@@ -438,13 +443,15 @@
         ],
         "type": "Polygon"
       }
+	  "id": 0
     },
     {
       "type": "Feature",
       "properties": {
 	  "univ": "Universitas Muhammadiyah Yogyakarta",
 	  "alamat": "Jl. Brawijaya, Geblagan, Tamantirto, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55183",
-      "telepon": "(0274) 387656"
+      "telepon": "(0274) 387656",
+	  "point": 40
 	},
       "geometry": {
         "coordinates": [
@@ -745,13 +752,15 @@
         ],
         "type": "Polygon"
       }
+	  "id": 4
     },
     {
       "type": "Feature",
       "properties": {
 	  "univ": "Universitas Atma Ahmad Dahlan",
 	  "alamat": "l. Kapas No.9, Semaki, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166",
-      "telepon": "(0274) 563515"
+      "telepon": "(0274) 563515",
+	  "point": 50
 	},
       "geometry": {
         "coordinates": [
@@ -800,13 +809,15 @@
         ],
         "type": "Polygon"
       }
+	  "id": 5
     },
     {
       "type": "Feature",
       "properties": {
 	  "univ": "Universitas Atma Jaya Yogyakarta",
 	  "alamat": "69FV+H39, Mrican, Caturtunggal, Depok, Sleman Regency, Special Region of Yogyakarta",
-      "telepon": "0274-487711"
+      "telepon": "0274-487711",
+	  "point": 60
 	},
       "geometry": {
         "coordinates": [
@@ -871,13 +882,15 @@
         ],
         "type": "Polygon"
       }
+	  "id": 6
     },
     {
       "type": "Feature",
       "properties": {
 	  "univ": "Universitas Sarjanawiyata Tamansiswa",
 	  "alamat": "Jl. Batikan, UH-III Jl. Tuntungan No.1043, Tahunan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55167",
-      "telepon": "082225266111"
+      "telepon": "082225266111",
+	  "point": 70
 	},
       "geometry": {
         "coordinates": [
@@ -906,13 +919,15 @@
         ],
         "type": "Polygon"
       }
+	  "id": 7
     },
     {
       "type": "Feature",
       "properties": {
 	  "univ": "Universitas Kristen Duta Wacana",
 	  "alamat": "Jl. Dr. Wahidin Sudirohusodo No.5-25, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224",
-      "telepon": "(0274) 563929"
+      "telepon": "(0274) 563929",
+	  "point": 80
 	},
       "geometry": {
         "coordinates": [
@@ -957,13 +972,15 @@
         ],
         "type": "Polygon"
       }
+	  "id": 8
     },
     {
       "type": "Feature",
       "properties": {
 	  "univ": "Universitas Mercu Buana Yogyakarta",
 	  "alamat": "Jl. Jembatan Merah No. 84C Gejayan, Yogyakarta 55283.. Telp: 0274-584922, 550703, 550704",
-      "telepon": "0274-584922"
+      "telepon": "0274-584922",
+	  "point": 90
 	},
       "geometry": {
         "coordinates": [
@@ -1012,13 +1029,15 @@
         ],
         "type": "Polygon"
       }
+	  "id": 10
     },
     {
       "type": "Feature",
       "properties": {
 	  "univ": "Universitas PGRI Yogyakarta",
 	  "alamat": "Jl. IKIP PGRI I Sonosewu No.117, Sonosewu, Ngestiharjo, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55182",
-      "telepon": "(0274) 376808"
+      "telepon": "(0274) 376808",
+	  "point": 110
 	},
       "geometry": {
         "coordinates": [
@@ -1083,13 +1102,15 @@
         ],
         "type": "Polygon"
       }
+	  "id": 11
     },
     {
       "type": "Feature",
       "properties": {
 	  "univ": "Universitas Teknologi Yogyakarta 2",
 	  "alamat": "Jalan Glagahsari No.63 Umbulharjo, Yogyakarta 55164",
-      "telepon": "+62-274-373955"
+      "telepon": "+62-274-373955",
+	  "point": 120
 	},
       "geometry": {
         "coordinates": [
@@ -1186,13 +1207,15 @@
         ],
         "type": "Polygon"
       }
+	  "id": 12
     },
     {
       "type": "Feature",
       "properties": {
 	  "univ": "Universitas Teknologi Yogyakarta 3",
 	  "alamat": "Jl. Prof. DR. Soepomo Sh No.21, Muja Muju, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55165",
-    "telepon": "(0274) 379204"
+      "telepon": "(0274) 379204",
+	  "point": 130
 	},
       "geometry": {
         "coordinates": [
@@ -1329,13 +1352,15 @@
         ],
         "type": "Polygon"
       }
+	  "id": 13
     },
     {
       "type": "Feature",
       "properties": {
 	  "univ": "Universitas Teknologi Yogyakarta 1",
 	  "alamat": "Jl. Siliwangi Jl. Jombor Lor, Mlati Krajan, Sendangadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284",
-      "telepon": "+62-274-623306"
+      "telepon": "+62-274-623306",
+	  "point": 140
 	},
       "geometry": {
         "coordinates": [
@@ -1388,13 +1413,15 @@
         ],
         "type": "Polygon"
       }
+	  "id": 14
     },
     {
       "type": "Feature",
       "properties": {
 	  "univ": "Universitas Janabadra",
 	  "alamat": "Jl. Tentara Rakyat Mataram No.55-57, Bumijo, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55231",
-      "telepon": "(0274) 561039"
+      "telepon": "(0274) 561039",
+	  "point": 150
 	},
       "geometry": {
         "coordinates": [
@@ -1451,6 +1478,7 @@
         ],
         "type": "Polygon"
       }
+	  "id": 15
     }
   ]
 }
